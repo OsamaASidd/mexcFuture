@@ -736,3 +736,509 @@ Symbols not available. Dumping unresolved backtrace:
 	0x7ffc58e6e8d7
 	0x7ffc5a76c53c
 
+2025-12-25 01:57:43,611 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:57:43,611 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:57:43,611 - src.modules.browser_manager - INFO - Profile name: Profile 1
+2025-12-25 01:57:55,985 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:57:55,987 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:57:55,987 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:58:30,150 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:58:30,150 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:58:30,150 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-25 01:58:33,824 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:58:33,824 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:58:33,824 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:58:44,893 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:58:44,894 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:58:44,895 - src.modules.browser_manager - INFO - Profile name: Profile 3
+2025-12-25 01:58:48,551 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:58:48,551 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:58:48,551 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:07,603 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:59:07,603 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:59:07,603 - src.modules.browser_manager - INFO - Profile name: Profile 3
+2025-12-25 01:59:11,266 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:11,266 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:59:11,266 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:25,387 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:59:25,387 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:59:25,387 - src.modules.browser_manager - INFO - Profile name: Profile 4
+2025-12-25 01:59:29,039 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:29,041 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:59:29,043 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:51,215 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 01:59:51,215 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 01:59:51,215 - src.modules.browser_manager - INFO - Profile name: Profile 5
+2025-12-25 01:59:55,051 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 01:59:55,054 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 01:59:55,056 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:00:32,734 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 02:00:32,734 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 02:00:32,734 - src.modules.browser_manager - INFO - Profile name: Profile 1
+2025-12-25 02:00:36,776 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:00:36,776 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 02:00:36,776 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6a84888e5
+	0x7ff6a8488940
+	0x7ff6a826165d
+	0x7ff6a82a0050
+	0x7ff6a829b7dd
+	0x7ff6a82f0186
+	0x7ff6a82efa06
+	0x7ff6a82aac29
+	0x7ff6a82aba93
+	0x7ff6a87a0640
+	0x7ff6a879af80
+	0x7ff6a87b96e6
+	0x7ff6a84a5de4
+	0x7ff6a84aed8c
+	0x7ff6a8492004
+	0x7ff6a84921b5
+	0x7ff6a8477ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:00:48,963 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 02:00:48,965 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 02:00:48,965 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-25 02:00:53,195 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff607f388e5
+	0x7ff607f38940
+	0x7ff607d1165d
+	0x7ff607d50050
+	0x7ff607d4b7dd
+	0x7ff607da0186
+	0x7ff607d9fa06
+	0x7ff607d5ac29
+	0x7ff607d5ba93
+	0x7ff608250640
+	0x7ff60824af80
+	0x7ff6082696e6
+	0x7ff607f55de4
+	0x7ff607f5ed8c
+	0x7ff607f42004
+	0x7ff607f421b5
+	0x7ff607f27ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:00:53,197 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 02:00:53,197 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff607f388e5
+	0x7ff607f38940
+	0x7ff607d1165d
+	0x7ff607d50050
+	0x7ff607d4b7dd
+	0x7ff607da0186
+	0x7ff607d9fa06
+	0x7ff607d5ac29
+	0x7ff607d5ba93
+	0x7ff608250640
+	0x7ff60824af80
+	0x7ff6082696e6
+	0x7ff607f55de4
+	0x7ff607f5ed8c
+	0x7ff607f42004
+	0x7ff607f421b5
+	0x7ff607f27ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:03:23,849 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-25 02:03:23,849 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 02:03:23,849 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-25 02:03:28,095 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7d78f88e5
+	0x7ff7d78f8940
+	0x7ff7d76d165d
+	0x7ff7d7710050
+	0x7ff7d770b7dd
+	0x7ff7d7760186
+	0x7ff7d775fa06
+	0x7ff7d771ac29
+	0x7ff7d771ba93
+	0x7ff7d7c10640
+	0x7ff7d7c0af80
+	0x7ff7d7c296e6
+	0x7ff7d7915de4
+	0x7ff7d791ed8c
+	0x7ff7d7902004
+	0x7ff7d79021b5
+	0x7ff7d78e7ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:03:28,095 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-25 02:03:28,095 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7d78f88e5
+	0x7ff7d78f8940
+	0x7ff7d76d165d
+	0x7ff7d7710050
+	0x7ff7d770b7dd
+	0x7ff7d7760186
+	0x7ff7d775fa06
+	0x7ff7d771ac29
+	0x7ff7d771ba93
+	0x7ff7d7c10640
+	0x7ff7d7c0af80
+	0x7ff7d7c296e6
+	0x7ff7d7915de4
+	0x7ff7d791ed8c
+	0x7ff7d7902004
+	0x7ff7d79021b5
+	0x7ff7d78e7ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:11:08,544 - src.modules.browser_manager - INFO - Starting Chrome with profile...
+2025-12-25 02:11:08,544 - src.modules.browser_manager - INFO - Profile path: C:\Users\osama.ahmed\AppData\Local\Google\Chrome\User Data
+2025-12-25 02:11:08,544 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-25 02:11:14,692 - src.modules.browser_manager - ERROR - Failed to start Chrome with profile: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7d78f88e5
+	0x7ff7d78f8940
+	0x7ff7d76d165d
+	0x7ff7d7710050
+	0x7ff7d770b7dd
+	0x7ff7d7760186
+	0x7ff7d775fa06
+	0x7ff7d771ac29
+	0x7ff7d771ba93
+	0x7ff7d7c10640
+	0x7ff7d7c0af80
+	0x7ff7d7c296e6
+	0x7ff7d7915de4
+	0x7ff7d791ed8c
+	0x7ff7d7902004
+	0x7ff7d79021b5
+	0x7ff7d78e7ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:11:14,696 - src.modules.browser_manager - WARNING - Failed to start Chrome with profile: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7d78f88e5
+	0x7ff7d78f8940
+	0x7ff7d76d165d
+	0x7ff7d7710050
+	0x7ff7d770b7dd
+	0x7ff7d7760186
+	0x7ff7d775fa06
+	0x7ff7d771ac29
+	0x7ff7d771ba93
+	0x7ff7d7c10640
+	0x7ff7d7c0af80
+	0x7ff7d7c296e6
+	0x7ff7d7915de4
+	0x7ff7d791ed8c
+	0x7ff7d7902004
+	0x7ff7d79021b5
+	0x7ff7d78e7ee2
+	0x7ffc2648e8d7
+	0x7ffc277ac53c
+
+2025-12-25 02:11:14,697 - src.modules.browser_manager - INFO - Chrome profile might be in use. Trying without profile...
+2025-12-25 02:11:18,766 - src.modules.browser_manager - INFO - Starting Chrome without profile (you'll need to login manually)
+2025-12-25 02:11:20,954 - src.modules.browser_manager - INFO - Browser initialized successfully (clean - no profile)
+2025-12-25 02:12:00,859 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-25 02:12:00,875 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/e2c0e85dc75b59d8987b1251a6f2a4f5
+2025-12-25 02:12:04,922 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DE0B398C80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e2c0e85dc75b59d8987b1251a6f2a4f5
+2025-12-25 02:12:08,989 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DE0B398D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e2c0e85dc75b59d8987b1251a6f2a4f5

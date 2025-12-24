@@ -53,9 +53,11 @@ def main():
         print("    {BTC_USDT, SHORT, 50}")
         print("    Type 'exit' to quit\n" + Style.RESET_ALL)
         
-        print(Fore.CYAN + "[!] Note: If Chrome is already running with your profile, you have two options:")
-        print("    1. Close all Chrome windows and run the bot")
-        print("    2. Run the bot without profile (you'll need to login manually)\n" + Style.RESET_ALL)
+        print(Fore.CYAN + "[!] For best results:")
+        print("    1. Run 'python start_chrome.py' FIRST (only once)")
+        print("    2. Login to MEXC in the opened Chrome")
+        print("    3. Then run this bot - it will attach to that Chrome")
+        print("    OR: Close all Chrome windows and run this directly\n" + Style.RESET_ALL)
         
         while True:
             trade_input = input(Fore.GREEN + "Enter trade (symbol, type, amount): " + Style.RESET_ALL)
@@ -75,8 +77,12 @@ def main():
                 continue
             
             print(Fore.CYAN + f"\n[*] Processing trade: {symbol} {order_type} ${amount}" + Style.RESET_ALL)
-            browser_manager = BrowserManager(use_profile=True)
-            browser_manager.initialize_browser()
+            
+            # Initialize browser if not already done
+            if browser_manager is None:
+                browser_manager = BrowserManager(use_profile=True)
+                browser_manager.initialize_browser()
+            
             trader = MEXCTrader(browser_manager)
             
             stop_loss = Config.DEFAULT_STOP_LOSS_PERCENT
@@ -104,11 +110,6 @@ def main():
                     print(Fore.GREEN + "\n✓ Trade setup complete (not executed)" + Style.RESET_ALL)
             else:
                 print(Fore.RED + "\n✗ Trade failed. Check logs for details." + Style.RESET_ALL)
-            
-            keep_browser = input(Fore.CYAN + "\nKeep browser open? (yes/no): " + Style.RESET_ALL).lower()
-            if keep_browser != 'yes':
-                browser_manager.close()
-                browser_manager = None
             
             another = input(Fore.CYAN + "\nExecute another trade? (yes/no): " + Style.RESET_ALL).lower()
             if another != 'yes':
