@@ -1,0 +1,738 @@
+2025-12-24 15:33:06,117 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:33:06,117 - WDM - INFO - ====== WebDriver manager ======
+2025-12-24 15:33:07,066 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-24 15:33:07,172 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-24 15:33:07,259 - WDM - INFO - There is no [win64] chromedriver "143.0.7499.169" for browser google-chrome "143.0.7499" in cache
+2025-12-24 15:33:07,260 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-24 15:33:07,490 - WDM - INFO - WebDriver version 143.0.7499.169 selected
+2025-12-24 15:33:07,494 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-24 15:33:07,494 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+2025-12-24 15:33:07,686 - WDM - INFO - Driver downloading response is 200
+2025-12-24 15:33:11,890 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-12-24 15:33:12,054 - WDM - INFO - Driver has been saved in cache [C:\Users\Abdual\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+2025-12-24 15:33:12,067 - src.modules.browser_manager - ERROR - Failed to initialize browser: [WinError 193] %1 is not a valid Win32 application
+2025-12-24 15:33:12,067 - __main__ - ERROR - Unexpected error: [WinError 193] %1 is not a valid Win32 application
+2025-12-24 15:40:22,532 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:40:22,532 - src.modules.browser_manager - ERROR - Failed to initialize browser: name 'get_default_chrome_options' is not defined
+2025-12-24 15:40:22,532 - __main__ - ERROR - Unexpected error: name 'get_default_chrome_options' is not defined
+2025-12-24 15:41:43,645 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:41:43,645 - src.modules.browser_manager - ERROR - Failed to initialize browser: name 'os_type' is not defined
+2025-12-24 15:41:43,645 - __main__ - ERROR - Unexpected error: name 'os_type' is not defined
+2025-12-24 15:42:23,559 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:42:34,673 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:42:34,673 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:45:05,392 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:45:08,536 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:45:08,537 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:46:32,914 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:46:36,024 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:46:36,024 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:53:46,465 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:53:46,466 - src.modules.browser_manager - INFO - Running without profile (you'll need to login manually)
+2025-12-24 15:53:47,911 - src.modules.browser_manager - INFO - Browser initialized successfully
+2025-12-24 15:54:44,630 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-24 15:54:44,632 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/5beda61e3c73dfe52301769648b377bc
+2025-12-24 15:54:48,717 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E67DB5E50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5beda61e3c73dfe52301769648b377bc
+2025-12-24 15:54:52,796 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021E67DB5590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5beda61e3c73dfe52301769648b377bc
+2025-12-24 15:55:29,315 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:55:29,315 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 15:55:29,315 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 15:55:32,408 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:55:32,409 - src.modules.browser_manager - INFO - Retrying without profile...
+2025-12-24 15:55:32,409 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:55:32,409 - src.modules.browser_manager - INFO - Running without profile (you'll need to login manually)
+2025-12-24 15:55:33,817 - src.modules.browser_manager - INFO - Browser initialized successfully
+2025-12-24 15:55:47,321 - src.modules.mexc_trader - INFO - Executing trade: SOLUSDT LONG $4.0
+2025-12-24 15:55:47,322 - src.modules.mexc_trader - INFO - Opening futures page for SOLUSDT
+2025-12-24 15:55:47,322 - src.modules.browser_manager - INFO - Navigating to https://futures.mexc.com/en-US/exchange/SOLUSDT
+2025-12-24 15:56:00,419 - src.modules.mexc_trader - INFO - Setting order type to LONG
+2025-12-24 15:56:03,982 - src.modules.mexc_trader - ERROR - Failed to set order type: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.169)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff64721d202
+	0x7ff6472427af
+	0x7ff6472b9a29
+	0x7ff6472da5c2
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:57:49,837 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-24 15:58:20,625 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:58:20,625 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 15:58:20,625 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 15:58:23,767 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 15:58:23,768 - src.modules.browser_manager - INFO - Retrying without profile...
+2025-12-24 15:58:23,768 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 15:58:23,768 - src.modules.browser_manager - INFO - Running without profile (you'll need to login manually)
+2025-12-24 15:58:25,128 - src.modules.browser_manager - INFO - Browser initialized successfully
+2025-12-24 15:58:31,437 - src.modules.mexc_trader - INFO - Executing trade: SOL_USDT LONG $5.0
+2025-12-24 15:58:31,437 - src.modules.mexc_trader - INFO - Opening futures page for SOL_USDT
+2025-12-24 15:58:31,437 - src.modules.browser_manager - INFO - Navigating to https://futures.mexc.com/en-US/exchange/SOL_USDT
+2025-12-24 15:58:40,492 - src.modules.mexc_trader - INFO - Setting order type to LONG
+2025-12-24 15:59:00,886 - src.modules.mexc_trader - ERROR - Failed to set order type: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647289a33
+	0x7ff647289d3c
+	0x7ff6472ddf67
+	0x7ff6472dac97
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:09:54,804 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-24 16:09:54,806 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/2ff55a3142e627b48eae76aebbf9c86b
+2025-12-24 16:09:58,853 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F707095950>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/2ff55a3142e627b48eae76aebbf9c86b
+2025-12-24 16:10:28,624 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:10:28,625 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:10:28,625 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:10:31,812 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:10:31,813 - src.modules.browser_manager - INFO - Retrying without profile...
+2025-12-24 16:10:31,813 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:10:31,813 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:10:31,813 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:10:34,840 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:10:34,840 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:12:46,153 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:12:46,153 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:12:46,154 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:12:49,275 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:12:49,276 - src.modules.browser_manager - INFO - Retrying without profile...
+2025-12-24 16:12:49,276 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:12:49,276 - src.modules.browser_manager - INFO - Running without profile
+2025-12-24 16:12:50,639 - src.modules.browser_manager - INFO - Browser initialized successfully
+2025-12-24 16:13:01,679 - src.modules.mexc_trader - INFO - Executing trade: BTC_USDT SHORT $5.0
+2025-12-24 16:13:01,679 - src.modules.mexc_trader - INFO - Opening futures page for BTC_USDT
+2025-12-24 16:13:01,679 - src.modules.browser_manager - INFO - Navigating to https://futures.mexc.com/en-US/exchange/BTC_USDT
+2025-12-24 16:13:15,411 - src.modules.mexc_trader - INFO - Setting order type to SHORT
+2025-12-24 16:13:35,897 - src.modules.mexc_trader - ERROR - Failed to set order type: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647289a33
+	0x7ff647289d3c
+	0x7ff6472ddf67
+	0x7ff6472dac97
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:17:50,339 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-24 16:17:50,342 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/1376d2d4f62614f060f0b270a62082df
+2025-12-24 16:18:16,672 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:18:16,672 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:18:16,672 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:18:19,802 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:18:19,802 - src.modules.browser_manager - INFO - Retrying without profile...
+2025-12-24 16:18:19,803 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:18:19,803 - src.modules.browser_manager - INFO - Running without profile
+2025-12-24 16:18:21,213 - src.modules.browser_manager - INFO - Browser initialized successfully
+2025-12-24 16:18:27,628 - src.modules.mexc_trader - INFO - Executing trade: SOL_USDT LONG $5.0
+2025-12-24 16:18:27,628 - src.modules.mexc_trader - INFO - Opening testnet futures page for SOL_USDT
+2025-12-24 16:18:27,628 - src.modules.browser_manager - INFO - Navigating to https://futures.testnet.mexc.com/futures/SOL_USDT
+2025-12-24 16:18:53,633 - src.modules.mexc_trader - INFO - Setting order type to LONG
+2025-12-24 16:18:53,634 - src.modules.mexc_trader - ERROR - Failed to set order type: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=143.0.7499.169)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff6472091b1
+	0x7ff6472b97e6
+	0x7ff6472da5c2
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:18:56,894 - src.modules.browser_manager - INFO - Closing browser...
+2025-12-24 16:20:53,050 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:20:53,050 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:20:53,050 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:20:56,174 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:20:56,174 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:24:47,795 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:24:47,795 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:24:47,795 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:25:50,851 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff6472757e0
+	0x7ff647270c07
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:25:50,852 - __main__ - ERROR - Unexpected error: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff6472757e0
+	0x7ff647270c07
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:46:42,130 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:46:42,131 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:46:42,131 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:47:47,488 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created
+from chrome not reachable
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff647231465
+	0x7ff64722207e
+	0x7ff6472761f0
+	0x7ff6472709ad
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:47:47,488 - __main__ - ERROR - Unexpected error: Message: session not created
+from chrome not reachable
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff647231465
+	0x7ff64722207e
+	0x7ff6472761f0
+	0x7ff6472709ad
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:52:27,774 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:52:27,774 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:52:27,774 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:53:30,805 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff6472757e0
+	0x7ff647270c07
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:53:30,805 - __main__ - ERROR - Unexpected error: Message: session not created: DevToolsActivePort file doesn't exist
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff6472757e0
+	0x7ff647270c07
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:55:14,229 - src.modules.browser_manager - INFO - Initializing Chrome browser...
+2025-12-24 16:55:14,229 - src.modules.browser_manager - INFO - Profile path: C:\Users\Abdual\AppData\Local\Google\Chrome\User Data
+2025-12-24 16:55:14,229 - src.modules.browser_manager - INFO - Profile name: Profile 2
+2025-12-24 16:55:17,328 - src.modules.browser_manager - ERROR - Failed to initialize browser: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
+2025-12-24 16:55:17,328 - src.modules.browser_manager - ERROR - Chrome profile might be in use. Close all Chrome windows or run without profile.
+2025-12-24 16:55:17,329 - __main__ - ERROR - Unexpected error: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6474588e5
+	0x7ff647458940
+	0x7ff64723165d
+	0x7ff647270050
+	0x7ff64726b7dd
+	0x7ff6472c0186
+	0x7ff6472bfa06
+	0x7ff64727ac29
+	0x7ff64727ba93
+	0x7ff647770640
+	0x7ff64776af80
+	0x7ff6477896e6
+	0x7ff647475de4
+	0x7ff64747ed8c
+	0x7ff647462004
+	0x7ff6474621b5
+	0x7ff647447ee2
+	0x7ffc58e6e8d7
+	0x7ffc5a76c53c
+
